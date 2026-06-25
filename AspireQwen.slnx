@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AspireQwen.ApiService/AspireQwen.ApiService.csproj" />
+  <Project Path="AspireQwen.AppHost/AspireQwen.AppHost.csproj" />
+  <Project Path="AspireQwen.ServiceDefaults/AspireQwen.ServiceDefaults.csproj" />
+  <Project Path="AspireQwen.Web/AspireQwen.Web.csproj" />
+</Solution>
